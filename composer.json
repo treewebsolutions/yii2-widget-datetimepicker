@@ -1,0 +1,27 @@
+{
+	"name": "twsro/yii2-widget-datetimepicker",
+	"description": "Yii2 DateTimePicker Widget",
+	"keywords": ["yii2", "datetimepicker", "widget", "tws"],
+	"type": "yii2-extension",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Tree Web Solutions",
+			"email": "treewebsolutions.com@gmail.com",
+			"homepage": "http://www.treewebsolutions.com/"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "~2.0.21",
+		"npm-asset/moment": "~2.20.1",
+		"npm-asset/eonasdan-bootstrap-datetimepicker": "~4.17.47"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~6.5.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"tws\\widgets\\datetimepicker\\": "src"
+		}
+	}
+}

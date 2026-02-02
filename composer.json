@@ -1,5 +1,5 @@
 {
-	"name": "twsro/yii2-widget-datetimepicker",
+	"name": "treewebsolutions/yii2-widget-datetimepicker",
 	"description": "Yii2 DateTimePicker Widget",
 	"keywords": ["yii2", "datetimepicker", "widget", "tws"],
 	"type": "yii2-extension",
